@@ -1,0 +1,9 @@
+sample_id,location,crop,N_current,W_current,pH_current,N_ciada,W_ciada,pH_ciada,e_N,e_W,e_pH
+TR-001,Izmir/Kemalpasa,Tomato,120,4.5,6.2,119.85,4.47,6.13,0.15,0.03,0.07
+TR-002,Antalya/Serik,Tomato,120,4.5,6.2,119.48,4.48,6.14,0.52,0.02,0.06
+TR-003,Konya/Cumra,Corn,180,8.0,6.7,179.66,7.98,6.65,0.34,0.02,0.05
+TR-004,Bursa/Inegol,Lettuce,60,2.5,5.8,59.89,2.49,5.76,0.11,0.01,0.04
+TR-005,Adana/Yuregir,Cotton,130,6.2,6.3,129.57,5.51,6.25,0.43,0.69,0.05
+TR-006,Mersin/Tarsus,Wheat,95,4.0,6.5,94.72,4.02,6.42,0.28,0.02,0.08
+TR-007,Eskisehir/Sivrihisar,Sunflower,88,4.1,6.4,87.81,3.94,6.34,0.19,0.16,0.06
+TR-008,Samsun/Bafra,Potato,110,5.5,6.1,109.46,5.23,6.01,0.54,0.27,0.09
